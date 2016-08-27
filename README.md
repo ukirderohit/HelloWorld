@@ -1,0 +1,1 @@
+Simple Hello World Python Program which prints "hello world" and exits
